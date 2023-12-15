@@ -1,3 +1,6 @@
 # newproject
 
 building the tool in jenkins
+
+git token
+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
